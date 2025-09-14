@@ -30,17 +30,17 @@ python front.py
 
 ## Structure Project
 car_F_and_P
-├── pycache\
-├── Images\                                       # Folder for project images
-│ ├── car_main.png                                # Main page image
-│ ├── delete_main.png                             # Delete page image
-│ ├── desert-white-5120x2880-21880.jpg            # Downloaded main image
-│ ├── desert-white-5120x2880-21880.png            # Product import page image
-│ ├── mclaren-speedtail-3840x2160-23016.jpg       # Downloaded main image
-│ ├── predict_main.png                            # Prediction page image
-│ └── up_main.png                                 # Upload page image
-├── Backend_ml.py                                 # Project working codes and their functions
-├── Car F and P.csv                               # Main dataset for data mining implementation
-├── data_mining.ipynb                             # Data analysis and data step implementation Mining
-├── front.py                                      # Implement the frontend
-├── README.text                                   # Help file
+- pycache\
+- Images\                                       # Folder for project images
+- ├── car_main.png                                # Main page image
+- ├── delete_main.png                             # Delete page image
+- ├── desert-white-5120x2880-21880.jpg            # Downloaded main image
+- ├── desert-white-5120x2880-21880.png            # Product import page image
+- ├── mclaren-speedtail-3840x2160-23016.jpg       # Downloaded main image
+- ├── predict_main.png                            # Prediction page image
+- └── up_main.png                                 # Upload page image
+- Backend_ml.py                                 # Project working codes and their functions
+- Car F and P.csv                               # Main dataset for data mining implementation
+- data_mining.ipynb                             # Data analysis and data step implementation Mining
+- front.py                                      # Implement the frontend
+- README.text                                   # Help file
